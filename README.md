@@ -1,3 +1,1 @@
-# hello-world
-this is my new project in gitHub, the first of many, I think.
-This file is important for knowing how work in github?
+In this project I pretend make an entire example (some tests) to an API (https://jsonplaceholder.typicode.com/) using the different verbs (GET, POST,PUT,PATCH,DELETE) with tecnologies how maven, java, testNG.
