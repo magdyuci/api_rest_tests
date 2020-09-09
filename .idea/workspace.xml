@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17b21de4-a54a-4437-8db0-4b9a2160c365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/api_rest_tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api_rest_tests.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ApiManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ApiManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pojos/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojos/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UserApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UserApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UserTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UserTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ApiManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ApiManager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pojos/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pojos/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UserApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UserApi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UserTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UserTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,9 +103,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.UserTests.createUser" />
-        <item itemvalue="TestNG.UserTests.updateUser" />
         <item itemvalue="TestNG.UserTests.deleteUser" />
         <item itemvalue="TestNG.UserTests.usersList" />
+        <item itemvalue="TestNG.UserTests.updateUser" />
         <item itemvalue="Application.ApiManager" />
       </list>
     </recent_temporary>
@@ -133,26 +124,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="328" y="83" key="#Project_Structure" timestamp="1599341699510">
+    <state x="328" y="83" key="#Project_Structure" timestamp="1599665392992">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
-    <state x="328" y="83" key="#Project_Structure/0.23.1680.958@0.23.1680.958" timestamp="1599341699510" />
-    <state width="1638" height="353" key="GridCell.Tab.0.bottom" timestamp="1599475954343">
+    <state x="328" y="83" key="#Project_Structure/0.23.1680.958@0.23.1680.958" timestamp="1599665392992" />
+    <state x="417" y="76" key="CommitChangelistDialog2" timestamp="1599669012940">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
-    <state width="1638" height="353" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1599475954343" />
-    <state width="1638" height="353" key="GridCell.Tab.0.center" timestamp="1599475954342">
+    <state x="417" y="76" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1599669012940" />
+    <state width="1638" height="294" key="GridCell.Tab.0.bottom" timestamp="1599670546118">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
-    <state width="1638" height="353" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1599475954342" />
-    <state width="1638" height="353" key="GridCell.Tab.0.left" timestamp="1599475954342">
+    <state width="1638" height="294" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1599670546118" />
+    <state width="1638" height="294" key="GridCell.Tab.0.center" timestamp="1599670546117">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
-    <state width="1638" height="353" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1599475954342" />
-    <state width="1638" height="353" key="GridCell.Tab.0.right" timestamp="1599475954343">
+    <state width="1638" height="294" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1599670546117" />
+    <state width="1638" height="294" key="GridCell.Tab.0.left" timestamp="1599670546116">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
-    <state width="1638" height="353" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1599475954343" />
+    <state width="1638" height="294" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1599670546116" />
+    <state width="1638" height="294" key="GridCell.Tab.0.right" timestamp="1599670546117">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1638" height="294" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1599670546117" />
     <state width="1638" height="309" key="GridCell.Tab.1.bottom" timestamp="1599462296129">
       <screen x="0" y="23" width="1680" height="958" />
     </state>

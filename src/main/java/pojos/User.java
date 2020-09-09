@@ -27,7 +27,7 @@ public class User {
         user.setUserId(2L);
         user.setId(101L);
         user.setTitle(RandomStringUtils.randomAlphabetic(10));
-        user.setBody(RandomStringUtils.randomAlphabetic(25));
+        user.setBody(RandomStringUtils.randomAlphanumeric(25));
 
         return user;
     }

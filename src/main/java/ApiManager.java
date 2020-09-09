@@ -29,7 +29,7 @@ public class ApiManager {
 
         // For POST only - START
         con.setDoOutput(true);
-        con.setDoInput(true);
+        //con.setDoInput(true);
         OutputStreamWriter writer = new OutputStreamWriter(con.getOutputStream());
         writer.write(postData);
         writer.flush();
