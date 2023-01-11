@@ -1,1 +1,1 @@
-In this project I pretend make an entire example (some tests) to an API (https://jsonplaceholder.typicode.com/) using the different verbs (GET, POST,PUT,PATCH,DELETE) with tecnologies how maven, java, testNG.
+In this project I pretend make an entire example (some tests) to an API (https://jsonplaceholder.typicode.com/) using the different verbs (GET, POST,PUT,PATCH,DELETE) with tecnologies how maven, java, testNG, in this specific example Rest assured framework was not included.
